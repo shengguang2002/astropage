@@ -10,9 +10,9 @@ export const siteConfig: SiteConfig = {
   title: 'Hanyang Yu',
   subtitle: 'Personal Site',
   lang: 'en',
-  themeHue: 220,
+  themeHue: 200,
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/banner1.png',
   },
 }

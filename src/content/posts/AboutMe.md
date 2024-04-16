@@ -1,6 +1,13 @@
 ---
 title: About Me
+published: 2024-04-15
+description: ''
+image: ''
+tags: [个人介绍]
+category: 'Resume'
+draft: false
 ---
+
 Email: [hyyu2002@uw.edu](mailto:hyyu2002@uw.edu)
        [yuhanyang888@outlook.edu](mailto:yuhanyang888@outlook.edu)
 ## Education
